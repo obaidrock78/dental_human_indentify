@@ -104,7 +104,6 @@ class Config(object):
 
 
 # ----------------------- DATASETS ----------------------- #
-
 dataset_base = Config({
     'name': 'Base Dataset',
 
@@ -171,6 +170,7 @@ pascal_sbd_dataset = dataset_base.copy({
 
     'class_names': PASCAL_CLASSES,
 })
+
 
 
 
