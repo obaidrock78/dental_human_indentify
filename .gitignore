@@ -121,7 +121,7 @@ test_data_aug.py
 .idea/
 
 # temp checkout soln
-data/coco
+
 data/sbd
 data/cityscapes
 
@@ -133,8 +133,7 @@ ssd.pytorch/
 
 # some datasets
 data/VOCdevkit/
-data/coco/images/
-data/coco/annotations/
+
 ap_data.pkl
 results/
 logs/
@@ -151,7 +150,7 @@ img/
 scripts/aws-ohio/
 scripts/aws3/
 data/config_dev.py
-data/coco/
+
 data/sbd/
 
 vid/
